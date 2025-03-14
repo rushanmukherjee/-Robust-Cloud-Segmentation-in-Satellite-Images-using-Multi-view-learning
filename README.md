@@ -2,11 +2,11 @@
 This repository contains the document and code for my master thesis at Saarland University. 
 
 Structure of repository 
---plots 
---src
-  -- dataset
-  -- models
-  -- training files
+--plots  <br />
+--src  <br />
+  -- dataset  <br />
+  -- models  <br />
+  -- training files  <br />
 
 Dataset folder consists of dataset classes for single-view and multi-view models.
 Models folder consist of both the model class and architecture files.
