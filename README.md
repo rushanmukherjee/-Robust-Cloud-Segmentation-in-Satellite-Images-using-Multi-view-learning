@@ -1,7 +1,7 @@
 # -Robust-Cloud-Segmentation-in-Satellite-Images-using-Multi-view-learning
 This repository contains the document and code for my master thesis at Saarland University. 
 
-Structure of repository 
+Structure of repository  <br />
 --plots  <br />
 --src  <br />
   -- dataset  <br />
